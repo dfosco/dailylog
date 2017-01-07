@@ -11,7 +11,7 @@ Minha lista de leitura para 2017. Os objetivos são simples:
 
 ## Lista
 
- - WIP!
+ - [The Design of Everyday Things](../the-design-of-everyday-things.md), by Don Norman
 
 ---
 
