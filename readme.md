@@ -1,7 +1,7 @@
 # 2017 JOURNAL
 
 
-- [Books](2017/books/ooks.md)
+- [Books](2017/books/books.md)
 - [Articles](2017/articles.md)
 
 - Videos (soon)
