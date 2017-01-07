@@ -1,6 +1,6 @@
 # Articles
 
-(some description here)
+Good reads along the year
 
 ## Jan
 
@@ -11,3 +11,5 @@
 - Smart, Dumb and Higher-Order Components
 - React is actually much more about mastering programming and architectural concepts
 ```
+
+- Interview with Pip Jameson - Offscreen Magazine n15
