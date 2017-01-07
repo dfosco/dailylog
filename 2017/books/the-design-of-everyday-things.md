@@ -9,7 +9,9 @@ _has_ affordance: `true | false`
 _affords_:
 
 ```javascript
- {
+ let affordance = true
+ 
+ affordance = {
    sitting: true
    lifting: false
    wheeling: false
