@@ -13,3 +13,7 @@ Good reads along the year
 ```
 
 - Interview with Pip Jameson - Offscreen Magazine n15
+
+- [Design words with Data](https://medium.com/dropbox-design/design-words-with-data-fe3c525994e7#.hoaczunvx) and [Design for Internationalization](https://medium.com/dropbox-design/design-for-internationalization-24c12ea6b38f#.hin553tqv) by John Saito are must-reads for improving UI copy :clap: :clap: :clap: 
+
+- [How to read a book](http://pne.people.si.umich.edu/PDF/howtoread.pdf) **TO-READ**
