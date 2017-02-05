@@ -1,5 +1,7 @@
 # Notes on 'The Design of Everyday Things'
 
+## 1. The Psychopathology of Everyday Things
+
 ### Affordances
 
 A chair affords ("is for") support, and therefore affords sitting.
@@ -88,3 +90,89 @@ We need to develop internal models of what things mean.
 ![conceptual-model-triangle](conceptual-model-triangle.png)
 
 ### The Paradox of technology
+
+- [smart watches have] so many things to control, so little space for controls or signifiers.
+
+- The same technology that simplifies life by providing more functions in each device also complicates life by making the device harder to learn, harder to use. **This is the paradox of technology and the challenge for the designer**
+
+## The Psychology of Everyday Actions
+
+### How do people do things: The Gulfs of Execution and Evaluation
+
+ - When people use something, they face two gulfs:
+
+    + The Gulf of Execution, where they try to figure out how it operates
+
+    + The Gulf of Evaluation, where they try to figure out what happened
+
+ - The gulf of evaluation reflects the amount of effort that the person must make to interpret the physical state of the device and to determine how well the expectations and intentions have been met.
+
+ - Gulf of Execution: signifiers, constraints, mappings and a conceptual model.
+
+ - Gulf of Evaluation: Feedback and a good conceptual model.
+
+![gulfs of execution and evaluation](guls-of-execution-and-evaluation.png)
+
+### The Seven Stages of Action
+
+ - There are to parts to an action: executing the action and then evaluating the results: doing and interpreting.
+
+![the seven stages of action](the-seven-stages-of-action.png)
+
+ 1. Goal (form the goal)
+
+ 2. Plan (the action)
+
+ 3. Specify (an action sequence) 4. Perform (the action sequence)
+
+ 5. Perceive (the state of the world)
+
+ 6. Interpret (the perception)
+
+ 7. Compare (the outcome with the goal)  
+
+
+ - Root cause analysis: asking "Why?" until the ultimate, fundamental cause of the activity is reached.
+
+ - Goal-driven behavior: starts with the goal and then goes through the three stages of Execution
+
+ - Event-driven (data-driven) behavior: triggered by some event in the world, goes through the three stages of the evaluation, and then execution.
+
+ - Opportunistic actions are those in which the behavior takes advantage of circumstances.
+
+ - Opportunistic actions are less precise and certain than specified goals and intentions, **but they result in less mental effort, less inconvenience** and perhaps more interest.
+
+- What about radical ideas, ones that introduce new product categories to the marketplace? These come about by reconsidering the goals, and always asking what the real goal is: _root cause_ analysis.
+
+> "People don't want to buy a quarter-inch drill. They want to buy a quarter-inch hole!"
+
+- Actually, people don't want a hole either... they want to install a bookshelf
+
+- And... why not develop methods that don't require holes? Or perhaps books that don't require bookshelves.
+
+### Human Thought: Mostly Subconscious
+
+ - Why do we need to know about the human mind? Because things are designed to be used by people, and without a deep understanding of people, the designs are apt to be faulty
+
+ - **Overlearning**: Once skills have been overlearned, performance appears to be effortless, done automatically, with little or no awareness -- you simply "know" the answer.
+
+ - **Declarative Memory**: Memory for factual information -- mostly automatic
+
+- **Procedural Memory**: Memory that needs to engage in conscious, reflective problem-solving to be properly retrieved.
+
+---
+
+- **Subconcious thought** matches patterns, finding the best possible match of one's past experience to the current one. _It proceeds rapidly and automatically, without effort_.
+
+- **Conscious thought** is quite different. It is slow and labored. Here is where we slowly ponder decisions, think through alternatives, compare different choices, rationalizing, finding explanations.
+
+![Subconscious and Conscious Systems of Cognition](subconscious-and-conscious.png)
+
+- A positive emotional state is ideal for creative thought, but it is not very well suited for getting things done.
+
+- A brain in a negative emotional state provides focus: precisely what is needed to maintain attention on a task and finish it.
+
+
+### Human Cognition and Emotion
+
+- Three levels of processing: visceral, behavioral, and reflective.
