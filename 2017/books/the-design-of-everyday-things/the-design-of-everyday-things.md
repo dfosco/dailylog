@@ -176,3 +176,69 @@ We need to develop internal models of what things mean.
 ### Human Cognition and Emotion
 
 - Three levels of processing: visceral, behavioral, and reflective.
+
+#### The Visceral Level
+
+ - Lizard brain
+
+ - The basic biology of the visceral system minimizes its ability to learn. Visceral responses are fast and automatic
+
+ - Responds to the immediate present and produces an affective state, relatively unnafected by context or history.
+
+  - [Visceral responses] are precursors to emotion.
+
+  - Appearances, whether sound or sight, touch or smell, drive the visceral response. **This has nothing to do with how usable, effective, or understandable the product is.**
+
+  - Great designers use their aesthetic sensibilities o drive these visceral responses.
+
+#### The Behavioral Level
+
+ - The _behavioral_ level is the home of learned skills, triggered by situations that match the appropriate patterns.
+
+ - Actions and analyses at this level are largely subconscious.
+
+ - When we speak, we often do no know what we are about to say until our conscious mind (the reflective part of the mind) hears ourselves uttering the words.
+
+ - When we perform a well-learned action, all we have to do is think of the goal and the behavioral level handles all the details
+
+ **Every action is associated with an expectation**
+
+ - Expect a positive outcome, and the result is a _positive affective response_
+
+ - Expect a negative outcome and the result is a _negative affective response_
+
+ - The information in the feedback loop of evaluation confirms or disconfirms the expectation, resulting in satisfaction or relief, disappointment or frustration.
+
+ - _Behavioral states are learned_. They give rise to a feeling of control when there is good understanding and knowledge of results
+
+ - Feedback provides reassurance, even when it indicates a negative result. A lack of feedback creates a feeling of lack of control, which can be unsettling.
+
+ - Feedback — knowledge of results — is how expectations are resolved and is critical to learning and the development of skilled behavior.
+
+ > NOTE
+ > Users need **clear usability states** to attach to their behavioral expectations (this is working, this is loading, this is done) in order to feel like experts.
+ >
+ > Experts know what happens next, can repeat actions with ease and are able to take action faster than most users.
+
+ - The emotional system is especially responsive to changes in states – so an upward change is interpreted positively even if it is only from a very bad state to a not-so-bad state
+
+#### The Reflective Level
+
+ - The _reflective_ level is the home of conscious cognition. [...] this is where deep understanding develops, where reasoning and conscious decision-making take place.
+
+ - Reflection is cognitive, deep, and slow. It often occurs after the events have happened. It is a reflection or looking back over them, evaluating the circumstances, actions, and outcomes, often assessing blame or responsibility.
+
+ > NOTE
+ > How to speed up reflective decision-making on users?
+
+ - Adding causal elements to experienced events leads to such emotional states as guilt and pride [...], blame and praise.
+
+#### Design must take place at all levels: visceral, behavioral, and reflective
+
+ - Reflective responses are part of our memory of events
+
+ - It is reflection that drives us to recommend a product [...] or perhaps to avoid it.
+
+ - **Reflective memories are often more important than reality.**
+
+ - Similarly, too much frustration, **especially toward the ending stage of use**, and our reflections about the experience might overlook the positive visceral qualities.
