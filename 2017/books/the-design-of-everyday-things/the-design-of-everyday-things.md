@@ -242,3 +242,16 @@ We need to develop internal models of what things mean.
  - **Reflective memories are often more important than reality.**
 
  - Similarly, too much frustration, **especially toward the ending stage of use**, and our reflections about the experience might overlook the positive visceral qualities.
+
+ - All three levels of processing work together to determine a person's cognitive and emotional state. High-level reflective cognition can trigger lower-level emotions. Lower-level emotions can trigger higher-level reflective cognition.
+
+ - The flow state occurs when the challenge of the activity just slightly exceeds our skill level, so full attention is continually required. Flow requires that the activity be neither too easy nor too difficult relative to our level of skill.
+
+ > NOTE
+ > Set up an environment that makes everything easy (or easier) so you can up the difficulty of the task accordingly to keep Flow
+
+#### People as Storytellers
+
+- Everyone forms stories (conceptual models) to explain what they have observed.
+
+- In the absence of external information, people can let their imagination run free as long as the conceptual models they develop account for the facts as they perceive them.
