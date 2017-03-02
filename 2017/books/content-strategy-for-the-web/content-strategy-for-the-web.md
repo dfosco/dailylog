@@ -114,3 +114,5 @@
 **Kick off on the right foot**
 
 ![EXPLAIN WHY YOU’RE THERE AND WHAT YOU’VE DONE SO FAR](explain-why.png)
+
+![ENGAGEMENT DOESN’T STOP AFTER THE KICKOFF](engagement-doesnt-stop-after-the-kickoff.png)
