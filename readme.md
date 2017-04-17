@@ -1,4 +1,4 @@
-# log
+# 2017 journal
 
 A journal of most things I read, watch and write along the year.
 
