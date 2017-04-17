@@ -1,24 +1,9 @@
 # Books
 
-> "For a 250 page book, might spend 15 minutes on overview (discovery), 4 hours on detailed reading (understand), and 20-30 minutes making notes(remember)" - PAUL N. EDWARDS
-
-
-Minha lista de leitura para 2017. Os objetivos são simples:
-
-* Manter a lista pública
-* Seguir a metodologia do Paul N. Edwards [How to read a book](http://pne.people.si.umich.edu/PDF/howtoread.pdf)
-* Divulgar as anotações como agradecimento aos que indicaram os livros <3
-
-## Lista
-
-## Jan /  Fev
+## Jan - April
 
  - [The Design of Everyday Things](the-design-of-everyday-things/the-design-of-everyday-things.md), by Don Norman
 
  - [Content Strategy for the Web](content-strategy-for-the-web/content-strategy-for-the-web.md), by Kristina Halvorson and Melissa Rach
 
  - Sandman Vol I: Preludes and Nocturnes, by Neil Gailman
-
----
-
-PS: Copiado descaradamente do [@zehfernandes](https://github.com/zehfernandes) :ok_hand:
