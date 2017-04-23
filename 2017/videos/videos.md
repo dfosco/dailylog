@@ -2,15 +2,16 @@
 
 #### [JavaScript30](javascript-30.md)
  
-1. Getting Setup (April 15 – Day 1)  
+0. Getting Setup (April 15 – Day 1)  
  
-2. Javascript Drum Kit (April 15 – Day 1)  
-3. CSS + JS Clock (April 16 – Day 2)  
-4. Playing with CSS Variables and JS (April 16 – Day 2)   
-5. Array Cardio Day 1 (April 16 – Day 2)  
-6. Flex Panels Image Gallery (April 22 – Day 8)  
-7. Ajax Type Ahead (April 22 – Day 8) 
-8. Array Cardio Day 2 (April 23 – Day 9)  
+1. Javascript Drum Kit (April 15 – Day 1)  
+2. CSS + JS Clock (April 16 – Day 2)  
+3. Playing with CSS Variables and JS (April 16 – Day 2)   
+4. Array Cardio Day 1 (April 16 – Day 2)  
+5. Flex Panels Image Gallery (April 22 – Day 8)  
+6. Ajax Type Ahead (April 22 – Day 8) 
+7. Array Cardio Day 2 (April 23 – Day 9)  
+8. Fun with HTML5 Canvas (April 23 – Day 9)
 
 #### [React Beginner Series](react-beginner-series.md)
  
