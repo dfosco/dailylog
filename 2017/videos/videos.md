@@ -12,6 +12,7 @@
 6. Ajax Type Ahead (April 22 – Day 8) 
 7. Array Cardio Day 2 (April 23 – Day 9)  
 8. Fun with HTML5 Canvas (April 23 – Day 9)
+9. 14 Must Know Dev Tools Tricks (April 23 – Day 9)
 
 #### [React Beginner Series](react-beginner-series.md)
  
