@@ -55,4 +55,8 @@ The article that laid out the thinking behind Tachyons. Essential read for anyon
 
 ##### [The Heart of Whiteness: Ijeoma Oluo Interviews Rachel Dolezal, the White Woman Who Identifies as Black](http://www.thestranger.com/features/2017/04/19/25082450/the-heart-of-whiteness-ijeoma-oluo-interviews-rachel-dolezal-the-white-woman-who-identifies-as-black)
 
+A kick-in-the-guts interview with Rachel Dolezal that shows how twisted racism can get.
+
 ##### [Facebook and the cost of monopoly](https://stratechery.com/2017/facebook-and-the-cost-of-monopoly/)
+
+This isn't such an outstanding article, but I'm always impressed how deep Ben Thompson's analysis can go. For more, see his take on Buzzfeed being [the most important news organization on the world](https://stratechery.com/2015/buzzfeed-important-news-organization-world), from 2015.
