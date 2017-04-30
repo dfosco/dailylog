@@ -48,3 +48,11 @@ Honest account on how over-polishing beyond value and losing time to market kill
 Emphasis mine.
 
 ##### Losing Sight, by Amelie Watson - Offscreen Magazine n13
+
+##### [CSS AND SCALABILITY](http://mrmrs.io/writing/2016/03/24/scalable-css/)
+
+The article that laid out the thinking behind Tachyons. Essential read for anyone that cares about CSS.
+
+##### [The Heart of Whiteness: Ijeoma Oluo Interviews Rachel Dolezal, the White Woman Who Identifies as Black](http://www.thestranger.com/features/2017/04/19/25082450/the-heart-of-whiteness-ijeoma-oluo-interviews-rachel-dolezal-the-white-woman-who-identifies-as-black)
+
+##### [Facebook and the cost of monopoly](https://stratechery.com/2017/facebook-and-the-cost-of-monopoly/)
