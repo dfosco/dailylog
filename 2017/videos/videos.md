@@ -13,6 +13,7 @@
 7. Array Cardio Day 2 (April 23 – Day 9)  
 8. Fun with HTML5 Canvas (April 23 – Day 9)
 9. 14 Must Know Dev Tools Tricks (April 23 – Day 9)
+10. Hold Shift to Check Multiple Checkboxes (May 1 – Day 17)
 
 #### [React Beginner Series](react-beginner-series.md)
  
