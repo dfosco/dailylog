@@ -54,3 +54,18 @@ In JavaScript, functions are first-class objects; that is, functions are of the 
 http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
 
 ---
+
+**JUMP TO DAY 11**
+
+---
+
+### Day 11
+#### Hold Shift to Check Multiple Checkboxes
+
+ - A good way to capture click events:
+
+```js
+const checkboxes = document.querySelectorAll('element-selector')
+function handleCheck(e) { console.log(e) }
+checkboxes.forEach(checkbox => checkbox.addEventListener('click', handleCheck))
+```
