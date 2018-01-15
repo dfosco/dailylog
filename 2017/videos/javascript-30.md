@@ -55,11 +55,11 @@ http://javascriptissexy.com/understand-javascript-callback-functions-and-use-the
 
 ---
 
-**JUMP TO DAY 11**
+**JUMP TO DAY 10**
 
 ---
 
-### Day 11
+### Day 10
 #### Hold Shift to Check Multiple Checkboxes
 
  - A good way to capture click events:
